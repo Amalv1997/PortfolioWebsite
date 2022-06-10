@@ -1,0 +1,12 @@
+
+.samples{
+    margin-top: 60px;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    font-weight: bold;
+}
+.samp{
+    margin-top: 290px;
+}
